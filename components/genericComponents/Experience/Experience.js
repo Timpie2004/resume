@@ -24,4 +24,4 @@ export default class Experience extends Component {
 			</>
 		);
 	}
-}
+} 
